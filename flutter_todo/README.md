@@ -14,7 +14,7 @@ This is a simple todo application built using Flutter.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/isMohamedAshraf/todo-with-flutter-and-spring.git
    ```
 
 2. **Install dependencies:**
@@ -33,7 +33,7 @@ This is a simple todo application built using Flutter.
 ### Technologies Used
 
 * Flutter: [https://flutter.dev/](https://flutter.dev/) - The framework used to build the app
-* 
+* flutter_riverpod - The State management library
 
 ### Persistence
 
@@ -45,6 +45,9 @@ This application uses ... (persistence method) ... to store todo items.
 
 Feel free to contribute to this project by opening pull requests.
 
+
+### Honorable Mentions
+This project uses code from [eCommerce App]([https://github.com/bizz84/complete-flutter-course]).
 
 ### License
 
